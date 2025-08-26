@@ -1,0 +1,11 @@
+D:\thuan\ltmcuoiky\bin\Debug\ltmcuoiky.exe.config
+D:\thuan\ltmcuoiky\bin\Debug\ltmcuoiky.exe
+D:\thuan\ltmcuoiky\bin\Debug\ltmcuoiky.pdb
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.csproj.AssemblyReference.cache
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.Properties.Resources.resources
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.client.resources
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.server.resources
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.csproj.GenerateResource.cache
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.csproj.CoreCompileInputs.cache
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.exe
+D:\thuan\ltmcuoiky\obj\Debug\ltmcuoiky.pdb
